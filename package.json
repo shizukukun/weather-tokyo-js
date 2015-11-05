@@ -1,0 +1,23 @@
+{
+  "name": "weather-tokyo-js",
+  "version": "1.0.0",
+  "description": "get weather of tokyo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizukukun/weather-tokyo-js.git"
+  },
+  "author": "RY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shizukukun/weather-tokyo-js/issues"
+  },
+  "homepage": "https://github.com/shizukukun/weather-tokyo-js#readme",
+  "dependencies": {
+    "request": "^2.65.0",
+    "xml2js": "^0.4.15"
+  }
+}
